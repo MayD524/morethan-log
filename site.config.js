@@ -12,14 +12,22 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `May Blog`,
-      href: "https://github.com/MayD524/morethan-log",
+      name: `Bitmato: Chess`,
+      href: "https://github.com/Bitmato-Studio/Bitmato-Chess",
     },
+    {
+      name: "BlueScript",
+      href: "https://github.com/MayD524/bluescriptv2"
+    },
+    {
+      name: "MayCord",
+      href: "https://github.com/MayD524/MayCord"
+    }
   ],
   // blog setting (required)
   blog: {
-    title: "morethan-log",
-    description: "welcome to morethan-log!",
+    title: "May's Blog",
+    description: "Welcome to my blog!",
   },
 
   // CONFIG configration (required)
