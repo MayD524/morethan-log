@@ -1,7 +1,7 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "Mayto",
+    name: "May Draskovics",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "DevOps Engineer",
     bio: "I love to build new and innovative projects, in hardware and software!",
@@ -12,8 +12,8 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `morethan-log`,
-      href: "https://github.com/morethanmin/morethan-log",
+      name: `May Blog`,
+      href: "https://github.com/MayD524/morethan-log",
     },
   ],
   // blog setting (required)
