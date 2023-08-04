@@ -17,11 +17,11 @@ const CONFIG = {
     },
     {
       name: "BlueScript",
-      href: "https://github.com/MayD524/bluescriptv2"
+      href: "https://github.com/MayD524/bluescriptv2",
     },
     {
       name: "MayCord",
-      href: "https://github.com/MayD524/MayCord"
+      href: "https://github.com/MayD524/MayCord",
     }
   ],
   // blog setting (required)
